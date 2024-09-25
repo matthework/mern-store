@@ -4,17 +4,13 @@ This is a full stack app by using MERN Stack (React + Express + Node.js + MongoD
 
 ## How to run in development
 
-For backend
-
-```
-cd backend
-```
+For backend (root folder)
 
 ```
 npm install && npm run dev
 ```
 
-For frontend
+For frontend (subfolder)
 
 ```
 cd frontend
@@ -25,6 +21,8 @@ npm install && npm run dev
 ```
 
 ## How to run in production
+
+In root folder
 
 ```
 npm run build
