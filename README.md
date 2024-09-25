@@ -1,7 +1,6 @@
 # MERN Store
 
-This app is built by using MERN Stack (React + Express + Node.js + MongoDB).  
-This template provides a minimal setup to get React working in Vite with HMR and ESLint rules.
+This is a full stack app by using MERN Stack (React + Express + Node.js + MongoDB). The frontend provides a minimal setup to get React working in Vite with HMR and ESLint rules.
 
 ## How to run in development
 
