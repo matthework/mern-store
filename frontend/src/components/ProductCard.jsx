@@ -87,7 +87,7 @@ const ProductCard = ({ product }) => {
           ${product.price}
         </Text>
 
-        <HStack spacing={2}>
+        {/* <HStack spacing={2}>
           <IconButton
             icon={<EditIcon />}
             onClick={onOpen}
@@ -98,7 +98,7 @@ const ProductCard = ({ product }) => {
             onClick={() => handleDeleteProduct(product._id)}
             colorScheme={"red"}
           />
-        </HStack>
+        </HStack> */}
       </Box>
       <Modal isOpen={isOpen} onClose={onClose}>
         <ModalOverlay />
